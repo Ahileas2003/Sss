@@ -1,2 +1,5 @@
 # sql
-Hi
+
+
+This is how to create Database:
+CREATE DATABASE testDB;
