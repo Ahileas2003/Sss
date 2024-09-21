@@ -1,0 +1,4 @@
+Creating table script:
+CREATE TABLE testTable(
+Person ID int
+);
